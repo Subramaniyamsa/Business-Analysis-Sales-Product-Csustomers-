@@ -12,7 +12,7 @@ The following Power BI features were incorporated:
 - Quick measures
 - Page Navigation
 - Modelling
-- Ilters
+- Filters
 - Tooltips
 - Button
 
